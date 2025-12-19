@@ -3,23 +3,27 @@ import { ArrowBigRight, ExternalLink, Github } from "lucide-react"
 const projects = [
     {
         id: 1,
+        title: "Elite Prestige",
+        description: "A visually rich, responsive landing page for a luxury real estate project.",
+        image: "/projects/elite.PNG",
+        demoUrl: "https://ep-omega.vercel.app/",
+        githubUrl: "https://github.com/Harshada-08014/ep",
+    },
+    {
+        id: 2,
         title: "NewsMonk",
         description: "A React-based news app using NewsAPI to deliver real-time U.S. and global headlines, category filters, and a responsive design.",
         image: "/projects/newsmonk.PNG",
         // tags: ["React", "BootStrap CSS", "API Integration"],
-        // demoUrl: "",
-        demoUrl: "https://github.com/Harshada-08014?tab=repositories",
-        githubUrl: "https://github.com/Harshada-08014?tab=repositories",
+        demoUrl: "https://www.linkedin.com/posts/harshada-kotawadekar-b6a047312_reactjs-frontenddevelopment-webdevelopment-activity-7366135825773797376-UbfI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9iWcIBbOL-xN1mnf6QeUwp7cKKPl4rHrg",
     },
     {
-        id: 2,
+        id: 3,
         title: "TadkaDish",
         description: "Developed a full-stack online food delivery platform with intuitive UI, simulated payments, and full admin & client-side management.",
         image: "/projects/tadkadish.PNG",
         // tags: ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
-        // demoUrl: "#",
-        demoUrl: "https://github.com/Harshada-08014?tab=repositories",
-        githubUrl: "https://github.com/Harshada-08014?tab=repositories",
+        demoUrl: "https://www.linkedin.com/posts/harshada-kotawadekar-b6a047312_fooddelivery-webdevelopment-php-activity-7313999206048821249-Tt9Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9iWcIBbOL-xN1mnf6QeUwp7cKKPl4rHrg",
     },
 ]
 
