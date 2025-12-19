@@ -16,6 +16,7 @@ const projects = [
         image: "/projects/newsmonk.PNG",
         // tags: ["React", "BootStrap CSS", "API Integration"],
         demoUrl: "https://www.linkedin.com/posts/harshada-kotawadekar-b6a047312_reactjs-frontenddevelopment-webdevelopment-activity-7366135825773797376-UbfI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9iWcIBbOL-xN1mnf6QeUwp7cKKPl4rHrg",
+        githubUrl: "https://github.com/Harshada-08014/NewsMonk",
     },
     {
         id: 3,
@@ -24,6 +25,8 @@ const projects = [
         image: "/projects/tadkadish.PNG",
         // tags: ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
         demoUrl: "https://www.linkedin.com/posts/harshada-kotawadekar-b6a047312_fooddelivery-webdevelopment-php-activity-7313999206048821249-Tt9Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9iWcIBbOL-xN1mnf6QeUwp7cKKPl4rHrg",
+        githubUrl: "https://github.com/Harshada-08014/TadkaDish",
+
     },
 ]
 
